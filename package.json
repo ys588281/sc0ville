@@ -1,0 +1,23 @@
+{
+  "name": "sc0ville",
+  "version": "1.0.0",
+  "description": "take home test for sc0ville",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sc0ville",
+    "interview",
+    "take_home_test"
+  ],
+  "author": "vincent.wen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.0",
+    "uuid": "^3.3.2"
+  }
+}
